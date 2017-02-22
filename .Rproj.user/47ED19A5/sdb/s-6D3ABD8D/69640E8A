@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Exercícios\"\n---\n\n```{r, include=FALSE}\nknitr::opts_chunk$set(collapse = TRUE)\n```\n\n<script src=\"https://cdn.datacamp.com/datacamp-light-latest.min.js\"></script>\n\n```{r, include=FALSE}\ntutorial::go_interactive()\n```\n\n1. Calcule o número de ouro no R.\n\n$$\n\\frac{1 + \\sqrt{5}}{2}\n$$\n\n```{r ex=\"exercicio_01\", type=\"sample-code\"}\n# Digite a expressão que calcula o número de ouro.\n```\n\n```{r ex=\"exercicio_01\", type=\"solution\"}\n(1 + sqrt(5))/2\n```\n\n```{r ex=\"exercicio_01\", type=\"sct\"}\ntest_output_contains(\"1.618034\", incorrect_msg = \"Tem certeza de que indicou a expressão corretamente?\")\nsuccess_msg(\"Correto!\")\n```\n\n",
+    "created" : 1487785714160.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1876261257",
+    "id" : "69640E8A",
+    "lastKnownWriteTime" : 1487785688,
+    "last_content_update" : 1487785688,
+    "path" : "~/curso-r/pu.functionals/03-exercicios.Rmd",
+    "project_path" : "03-exercicios.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 3,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

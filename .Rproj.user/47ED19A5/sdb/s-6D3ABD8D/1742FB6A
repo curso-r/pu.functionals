@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Introdução\"\n---\n\n```{r, message=FALSE, warning=FALSE, include=FALSE}\nknitr::opts_chunk$set(\n  collapse = TRUE, \n  out.width = \"60%\", out.height = \"60%\",\n  fig.retina = 2\n)\n```\n\n# Introdução\n\nR é uma linguagem de programação funcional. Isso quer dizer que ela fornece várias ferramentas para que você manipule e crie funções. Essa estrutura é tão presente na linguagem que todas as operações são chamados de função, mesmo que o código não deixe isso claro.\n\nEm R, utiliza-se o conceito de `first class function`. Isso quer dizer que uma função pode ser manipulada como um objeto qualquer. Tudo que você consegue fazer com um vetor, também consegue fazer com uma função. É possível, por exemplo, criar listas de funções, vetores de funções e até mesmo funções de funções, chamadas de `funcionais`.\n\nNeste Power Up, você aprenderá algumas técnicas de manipulação de funções e, principalmente, os principais `funcionais` disponíveis.",
+    "created" : 1487785704877.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "1129354113",
+    "id" : "1742FB6A",
+    "lastKnownWriteTime" : 1487785688,
+    "last_content_update" : 1487785688,
+    "path" : "~/curso-r/pu.functionals/01-intro.Rmd",
+    "project_path" : "01-intro.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 1,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}

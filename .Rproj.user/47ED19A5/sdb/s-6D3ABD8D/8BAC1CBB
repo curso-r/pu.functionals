@@ -1,0 +1,20 @@
+{
+    "collab_server" : "",
+    "contents" : "---\ntitle: \"Conceitos\"\n---\n\n```{r, message=FALSE, warning=FALSE, include=FALSE}\nknitr::opts_chunk$set(\n  collapse = TRUE, \n  out.width = \"60%\", out.height = \"60%\",\n  fig.retina = 2\n)\n```\n\n",
+    "created" : 1487785712038.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3093743569",
+    "id" : "8BAC1CBB",
+    "lastKnownWriteTime" : 1487785688,
+    "last_content_update" : 1487785688,
+    "path" : "~/curso-r/pu.functionals/02-conceitos.Rmd",
+    "project_path" : "02-conceitos.Rmd",
+    "properties" : {
+    },
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "r_markdown"
+}
