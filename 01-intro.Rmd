@@ -10,6 +10,7 @@ knitr::opts_chunk$set(
 )
 ```
 
+
 # Introdução
 
 R é uma linguagem de programação funcional. Isso quer dizer que ela fornece várias ferramentas para que você manipule e crie funções. Essa estrutura é tão presente na linguagem que todas as operações são chamados de função, mesmo que o código não deixe isso claro.
